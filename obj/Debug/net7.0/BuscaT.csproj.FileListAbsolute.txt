@@ -1,0 +1,14 @@
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\bin\Debug\net7.0\BuscaT.exe
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\bin\Debug\net7.0\BuscaT.deps.json
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\bin\Debug\net7.0\BuscaT.runtimeconfig.json
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\bin\Debug\net7.0\BuscaT.dll
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\bin\Debug\net7.0\BuscaT.pdb
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\obj\Debug\net7.0\BuscaT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\obj\Debug\net7.0\BuscaT.AssemblyInfoInputs.cache
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\obj\Debug\net7.0\BuscaT.AssemblyInfo.cs
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\obj\Debug\net7.0\BuscaT.csproj.CoreCompileInputs.cache
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\obj\Debug\net7.0\BuscaT.dll
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\obj\Debug\net7.0\refint\BuscaT.dll
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\obj\Debug\net7.0\BuscaT.pdb
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\obj\Debug\net7.0\BuscaT.genruntimeconfig.cache
+C:\Users\imper\RiderProjects\BuscaT\BuscaT\obj\Debug\net7.0\ref\BuscaT.dll
